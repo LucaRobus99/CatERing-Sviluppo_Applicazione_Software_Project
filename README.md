@@ -1,8 +1,8 @@
-# CatERing_Project -Sviluppo_Applicazione_Software
+# CatERing Project
 
 ## Overview
 
-CatERing is a **university project** for **Sviluppo Applicazioni Software** course of **Università degli studi di Torino** developed in Java that simulates the management software of a catering service. The system models the main business processes involved in event catering, such as menu management, kitchen tasks, event organization, and data persistence.
+CatERing is a **university project** developed in Java that simulates the management software of a catering service. The system models the main business processes involved in event catering, such as menu management, kitchen tasks, event organization, and data persistence.
 
 The project follows a **layered architecture** and separates business logic, persistence, and user interface components.
 
@@ -73,5 +73,3 @@ These documents complement the source code by providing formal specifications an
 ## Educational Purpose
 
 This project was developed **for academic purposes** as part of a university course. It is not intended for production use.
-
-
