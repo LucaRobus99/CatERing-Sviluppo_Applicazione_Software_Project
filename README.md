@@ -1,6 +1,4 @@
-# CatERing-Sviluppo_Applicazione_Software_Project
-
-# CatERing Project
+# CatERing_Project -Sviluppo_Applicazione_Software
 
 ## Overview
 
