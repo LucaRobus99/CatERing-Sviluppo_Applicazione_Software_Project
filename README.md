@@ -74,10 +74,10 @@ These documents complement the source code by providing formal specifications an
 🤝 Contributing
 This project was developed as part of the Sviluppo Applicazioni Software course at the University of Turin.
 
-## 👥 Contributors(Collegue)
+## 👥 Contributors
 
 * **Davide Robustelli** — [@xDavikx](https://github.com/xDavikx)
-
+* **Luca Robustelli** (Me)
 ---
 
 
