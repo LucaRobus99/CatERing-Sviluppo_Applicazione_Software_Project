@@ -77,7 +77,7 @@ This project was developed as part of the Sviluppo Applicazioni Software course 
 ## 👥 Contributors
 
 * **Davide Robustelli** — [@xDavikx](https://github.com/xDavikx)
-* **Luca Robustelli** (Me)
+* **Luca Robustelli** - [@LucRobus99](https://github.com/LucaRobus99)
 ---
 
 
